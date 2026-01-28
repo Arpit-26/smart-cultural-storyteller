@@ -1,0 +1,7 @@
+flask
+flask-cors
+gpt4all
+elevenlabs
+requests
+python-dotenv
+streamlit

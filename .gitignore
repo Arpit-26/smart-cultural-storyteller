@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+
+# Environment variables
+.env
+
+# Model files (CRITICAL)
+models/*.gguf
+models/*.bin
+
+# Generated files
+static/*.png
+static/*.mp3
+static/*.mp4
+static/temp_filelist.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+
+# NLTK
+nltk_data/
+
+# Streamlit
+.streamlit/
